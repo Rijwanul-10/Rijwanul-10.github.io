@@ -249,5 +249,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Built with ❤️ for showcasing professional portfolios**
 
-*Last updated: December 2024*
+*Last updated: August 2025*
+
 
